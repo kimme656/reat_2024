@@ -9,4 +9,12 @@
 @import "./section/skip";
 @import "./section/header.scss";
 @import "./section/intro";
-@import "./section/skill.scss"
+@import "./section/skill.scss";
+@import "./section/site.scss";
+@import "./section/port.scss";
+@import "./section/contact.scss";
+@import "./section/footer";
+
+html,body{
+    overflow-x: hidden;
+}
